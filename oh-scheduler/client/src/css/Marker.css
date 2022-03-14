@@ -1,0 +1,26 @@
+.marker {
+    position: absolute;
+    left: -25px;
+    top: -20px;
+    width: 50px;
+    height: 20px;
+    padding: 1px 0;
+    margin: 0;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 2px;
+    background-color: rgb(27, 136, 179);
+    font-size: 12px;
+    font-weight: 900;
+    color:rgb(255, 255, 255);
+    line-height: 16px;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.95;
+    cursor: pointer;
+}
+
+.marker:hover {
+    z-index: 1;
+    border: 2px solid rgb(54, 54, 54);
+    background-color: rgb(33, 152, 199);
+}

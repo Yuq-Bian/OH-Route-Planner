@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: rgb(228, 228, 228);
+  height: 100%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.col {
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+#title {
+  background-color: rgba(255, 255, 255, 0);
+  font-size: 28px;
+  font-weight: 900;
+  color:rgb(23, 111, 146);
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  position: absolute;
+  z-index: 500;
+}
+
+#map {
+  height: auto;
+  position: relative;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+#info {
+  height: auto;
+}

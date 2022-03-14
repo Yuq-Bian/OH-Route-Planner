@@ -1,0 +1,23 @@
+#scheduleButtonContainer {
+    box-shadow: 2px 2px 2px rgb(182, 182, 182);
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+#scheduleButtonContainer:hover {
+    box-shadow: 2px 2px 2px rgb(219, 219, 219);
+}
+
+
+.scheduleButtonElement {
+    padding: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color:rgb(0, 0, 0);
+    display:block;
+}
+
+
+#scheduleButton {
+    padding: 5px;
+}

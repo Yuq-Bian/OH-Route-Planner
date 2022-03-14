@@ -1,0 +1,75 @@
+#activeHomeContainer {
+    box-shadow: 2px 2px 2px rgb(182, 182, 182);
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+#activeHomeContainer:hover {
+    box-shadow: 2px 2px 2px rgb(219, 219, 219);
+}
+
+
+.activeHomeElement {
+    padding: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color:rgb(0, 0, 0);
+    display:block;
+}
+
+.activeHomeElement img {
+    padding: 0;
+}
+
+#activeHomeImg {
+    margin-bottom: 10px;
+}
+
+#activeHomePrice {
+    font-weight: 700;
+    text-align: left;
+    padding-left: 5px;
+}
+
+#activeHomeInfo {
+    text-align: right;
+    padding-right: 5px;
+}
+
+#activeHomeAddr {
+    text-align: right;
+    font-size: 15px;
+    padding-right: 5px;
+}
+
+#activeHomeLink {
+    text-align: right;
+    font-size: 15px;
+    padding-right: 5px;
+}
+
+#activeHomeLink a {
+    padding: 0;
+}
+
+
+#activeHomeOpenHouseTime {
+    text-align: left;
+    padding-left: 5px;
+}
+
+#activeHomeStayTitle {
+    text-align: left;
+    padding-left: 5px;
+    margin: auto;
+}
+
+#activeHomeStayValue {
+    text-align: right;
+    padding-right: 5px;
+}
+
+#activeHomeAddButton {
+    padding: 5px;
+    padding-top: 8px;
+}

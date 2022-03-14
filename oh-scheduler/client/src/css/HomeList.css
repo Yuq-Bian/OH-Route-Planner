@@ -1,0 +1,64 @@
+#homeListContainer {
+    padding: 0;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.homeListCell {
+    padding: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color:rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(219, 219, 219);
+}
+
+.homeListCell:hover {
+    border: 2px solid rgb(27, 136, 179);
+    padding: 3px;
+    padding-bottom: 4px;
+    cursor: pointer;
+}
+
+.homeListCellElement {
+    padding: 0;
+}
+
+.homeListCellPrice {
+    font-weight: 700;
+    text-align: left;
+    padding-left: 0;
+    margin: auto;
+}
+
+.homeListCellRemoveButton {
+    text-align: right;
+    padding: 0;
+}
+
+.homeListCellAddress {
+    text-align: left;
+    font-size: 15px;
+    padding-left: 0;
+}
+
+.homeListCellOpenInfo {
+    text-align: left;
+    padding-left: 0;
+}
+
+.homeListCellStayTimeTitle {
+    text-align: left;
+    padding-left: 0;
+}
+
+.homeListCellStayTime {
+    text-align: right;
+    padding: 0;
+}
+
+.homeListCellUnreachableInfo {
+    text-align: left;
+    padding-left: 0;
+    color: crimson;
+}

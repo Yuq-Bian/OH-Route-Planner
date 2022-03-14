@@ -1,0 +1,2 @@
+export const MAX_SUPPORTED_HOMELIST_SIZE = 10;
+export const UNREACHABLE_HOME_INDEX = 50;
